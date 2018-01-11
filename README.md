@@ -1,6 +1,6 @@
-# vueconf-client
+# Simple GraphQL client
 
-> A Vue.js project
+> A GraphQL client based on VueConf2017 running on VueJS(a JavaScript framework) and powered by Apollo library.
 
 ## Build Setup
 
