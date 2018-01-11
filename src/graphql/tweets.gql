@@ -1,0 +1,12 @@
+{
+  twitterTimeline {
+    id
+    isRetweet
+    text
+    author {
+      name
+      screenName
+      url
+    }
+  }
+}
